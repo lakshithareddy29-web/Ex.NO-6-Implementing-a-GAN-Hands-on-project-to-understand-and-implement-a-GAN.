@@ -1,4 +1,5 @@
 # Ex.NO-6-Implementing-a-GAN-Hands-on-project-to-understand-and-implement-a-GAN.
+# DATE 02/11/2026
 ## Aim :To Understand and implement a GAN
 Generative Adversarial Network (GAN)
 Generative Adversarial Networks (GAN) can generate realistic images by learning from existing image datasets. Here we will be implementing a GAN trained on the CIFAR-10 dataset using PyTorch.
